@@ -2,6 +2,15 @@
 
 # live url https://listreact.herokuapp.com/!#
 
+## how to start locally
+
+  1. Download this repository
+  2. open in text editor
+  3. run comman "npm install"
+  4. run command "npm start" for production
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
